@@ -49,5 +49,5 @@ Donc il faut modifier les paramètres d’attribution IP en automatique DHCP
 
 27.
 
-28. Malgré de nombreuses tentatives…je n’ai jamais réussi à établir une connexion.
+28. Pour établir une connexion TSE sur le serveur depuis la VM Client il faut donner les droits administrateurs dans l'AD, et l'intégrer dans L'UO Domain Admins
 
